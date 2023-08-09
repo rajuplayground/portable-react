@@ -61,6 +61,7 @@ const myPortableComponents = {
         </a>
       );
     },
+    strong: ({ children }) => <b>{children}</b>,
   },
 };
 
